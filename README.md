@@ -8,7 +8,7 @@ Configure and test  the basic firewall rules to allow or block the traffic in wi
 * In left panel, click **"Inbound Rules"** or **"Outbound Rules"**.
 * You will see a list of existing rules with names, programs, ports, and actions (Allow/Deny).
 # 3.Add a Rule to Block Inbound Traffic on Port 23(Telnet)
-* In the left pane, click "Inbound Rules" > in right pane, click "New Rule...".
+* In the left pane, click "Inbound Rules" > in right panel, click "New Rule...".
 * Select Port, click Next.
 * Choose TCP, and enter 23 in Specific local ports.
 * Click Next, select Block the connection, click Next.
